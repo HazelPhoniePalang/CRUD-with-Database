@@ -13,8 +13,22 @@ The system allows users to:
 
 ## Technologies Used
 - PHP (7.4 or higher recommended)
-- MySQL / MariaDB
-- HTML / CSS (for user interface)
-- Apache/Nginx (XAMPP, WAMP, or LAMP)
+- MySQL
+- HTML / CSS / Bootstrap
+- Apache (XAMPP)
 
 ---
+
+## Purpose
+
+This project is intended for:
+
+- Learning PHP database connectivity  
+- Understanding CRUD operations  
+- Practicing backend web development fundamentals  
+
+---
+
+## License
+
+This project is open-source and intended for educational use.
